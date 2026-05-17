@@ -1,6 +1,6 @@
 {
-  "version_code": 201,
-  "response": "actualizado",
-  "incompatible": false,
-  "url": "https://github.com/cyberzeroomp-boop/UPDATE/releases/download/V2.0.4/update_204.apk"
+  "version_code": 202,
+  "response": "desactualizado",
+  "incompatible": true,
+  "url": "https://github.com/cyberzeroomp-boop/UPDATE/releases/download/V2.0.2/update_202.apk"
 }
